@@ -1,6 +1,6 @@
 # Build Your Own Agent: Copilot Studio in a Day
 
-Repository to store all assets for the **Build Your Own Agent: Copilot Studio in a Day** workshop, first delivered as part of the [European SharePoint Conference (ESPC) 2025](https://www.sharepointeurope.com/).
+Fork of **Build Your Own Agent: Copilot Studio in a Day**
 
 ## Abstract
 
